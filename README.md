@@ -1,2 +1,1 @@
-Results-driven cybersecurity professional bringing a unique blend of theoretical knowledge and practical skills with a solid foundation in web operations gained from diverse educational and project experiences. 
-Driven by a passion for ethical hacking, cybersecurity, continuous growth, and contributing to team success.
+Cybersecurity specialist focused on offensive security, vulnerability assessment, and risk analysis. I have hands-on experience conducting penetration tests, identifying exploitable weaknesses, and strengthening organizations’ defenses through real-world security assessments and incident response planning.
