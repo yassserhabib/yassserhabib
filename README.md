@@ -1,1 +1,3 @@
 Cybersecurity specialist focused on offensive security, vulnerability assessment, and risk analysis. I have hands-on experience conducting penetration tests, identifying exploitable weaknesses, and strengthening organizations’ defenses through real-world security assessments and incident response planning.
+
+I hold a Master of Science in Cybersecurity (With Distinction) and certifications including the Google Cybersecurity Professional Certificate. I am passionate about helping organizations stay ahead of threats while continuing to grow my expertise in offensive security and cybersecurity operations.
